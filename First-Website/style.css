@@ -1,0 +1,42 @@
+.center-text {
+  text-align:center;
+}
+.header {
+  padding: 60px;
+  margin: -25px;
+  text-align: center;
+  background: cornflowerblue;
+  color: white;
+  font-size: 30px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+
+img {
+width:300px;
+padding: 60px;
+height:auto;
+}
+.btn{
+  display: inline-block;
+  font-family:'courier New';
+  font-size:15px;
+  text-align:center;
+  margin:10px;
+  padding:2px 20px;
+  color: white;
+  background-color:cornflowerblue;
+}
+hr{
+  height:4px;
+  background-color:#2D3047;
+}
+.wrapper{
+  margin-right:auto;
+}
+ol{
+list-style:none;
+}
+ul{
+  list-style:none;
+  }
